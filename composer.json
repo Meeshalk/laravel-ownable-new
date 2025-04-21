@@ -3,6 +3,7 @@
     "description": "Simple trait to check ownership of models/objects",
     "keywords": ["laravel", "ownership", "ownable", "owns"],
     "require": {
+        "php": "^7.3|^7.4|^8.2|^8.3|^8.4",
         "illuminate/database": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
         "illuminate/support": "^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0",
         "laravel/legacy-factories": "^1.3"
