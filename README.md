@@ -1,9 +1,9 @@
 # Check model ownership for Laravel
 
-![tests](https://github.com/santigarcor/laravel-ownable/workflows/tests/badge.svg?branch=master)
-[![Latest Stable Version](https://poser.pugx.org/santigarcor/laravel-ownable/v)](//packagist.org/packages/santigarcor/laravel-ownable)
-[![Total Downloads](https://poser.pugx.org/santigarcor/laravel-ownable/downloads)](//packagist.org/packages/santigarcor/laravel-ownable)
-[![License](https://poser.pugx.org/santigarcor/laravel-ownable/license)](//packagist.org/packages/santigarcor/laravel-ownable)
+![tests](https://github.com/meeshalk/laravel-ownable-new/workflows/tests/badge.svg?branch=master)
+[![Latest Stable Version](https://poser.pugx.org/meeshalk/laravel-ownable-new/v)](//packagist.org/packages/meeshalk/laravel-ownable-new)
+[![Total Downloads](https://poser.pugx.org/meeshalk/laravel-ownable-new/downloads)](//packagist.org/packages/meeshalk/laravel-ownable-new)
+[![License](https://poser.pugx.org/meeshalk/laravel-ownable-new/license)](//packagist.org/packages/meeshalk/laravel-ownable-new)
 
 This trait allows you to check if a model owns some other model in your Laravel application.
 
@@ -11,7 +11,7 @@ This trait allows you to check if a model owns some other model in your Laravel 
 
 Simply run:
 ```bash
-composer require santigarcor/laravel-ownable
+composer require meeshalk/laravel-ownable-new
 ```
 
 Then you have to use the `OwnsModels` trait in the models you want to check if they own other models.
