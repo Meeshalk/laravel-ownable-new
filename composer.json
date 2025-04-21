@@ -1,5 +1,5 @@
 {
-    "name": "santigarcor/laravel-ownable",
+    "name": "meeshalk/laravel-ownable-new",
     "description": "Simple trait to check ownership of models/objects",
     "keywords": ["laravel", "ownership", "ownable", "owns"],
     "require": {
